@@ -1,3 +1,5 @@
+import pandas as pd
+import datetime
 
 def kucoin(symbol,start,end,interval=None):
     
